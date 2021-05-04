@@ -8,7 +8,7 @@ export const sequelize = new Sequelize(
     '75809581',
     {
         host:'localhost',
-        dialecto:'postgres',
+        dialect:'postgres',
         pool:{
             max:5,
             min:0,
