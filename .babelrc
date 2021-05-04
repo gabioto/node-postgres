@@ -1,0 +1,5 @@
+{
+    "presets": [
+        "@babel/preset-env" //traducir condigo moderno de js
+    ]
+}
